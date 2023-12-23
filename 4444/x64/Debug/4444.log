@@ -1,0 +1,7 @@
+﻿  4444.cpp
+C:\Users\sarat\source\repos\4444\4444.cpp(32,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarat\source\repos\4444\4444.cpp(73,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarat\source\repos\4444\4444.cpp(74,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarat\source\repos\4444\4444.cpp(103,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sarat\source\repos\4444\4444.cpp(104,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  4444.vcxproj -> C:\Users\sarat\source\repos\4444\x64\Debug\4444.exe
